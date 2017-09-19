@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-site",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-mt-svg-lines": "^0.8.1",
+    "react-reveal": "^0.2.2",
+    "react-scripts": "1.0.13",
+    "react-scroll": "^1.5.4",
+    "semantic-ui-react": "^0.73.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
